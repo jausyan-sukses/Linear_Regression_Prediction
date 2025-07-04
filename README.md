@@ -9,6 +9,7 @@ home price detection and QS world university rangking data analyst
 
 <!-- Tambahkan screenshot, GIF, atau video demo jika ada -->
 ![Demo](demo1.png)
+![Demo](demo2.png)
 
 ---
 
