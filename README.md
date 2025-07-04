@@ -1,4 +1,6 @@
-# 📌 Linear_Regression_BY el 
+<h1 align="center">📌 Linear_Regression_BY el </h1>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!-- Ganti ini dengan deskripsi singkat proyek -->
 home price detection and QS world university rangking data analyst
